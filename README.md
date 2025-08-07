@@ -40,6 +40,20 @@ Target variable: **Fulfillment Rate**
 Model Used: `RandomForestRegressor`
 
 ---
+📸 Dashboard Screenshots
+
+1. Summary Dashboard
+
+<img width="1192" height="664" alt="image" src="https://github.com/user-attachments/assets/50397c7f-d762-4af5-92b7-54c95267b1f8" />
+
+
+2. Units Sold Representation
+
+<img width="1178" height="652" alt="image" src="https://github.com/user-attachments/assets/092c1caa-3582-46ce-884d-5541d99c54d8" />
+
+
+3. Warehouse Stock Percentage
+<img width="1163" height="652" alt="image" src="https://github.com/user-attachments/assets/f7eae79b-b413-4983-acae-e773601dbd87" />
 
 ## 📊 Power BI Dashboard Features
 - Total Revenue, Profit, Cost per Month
