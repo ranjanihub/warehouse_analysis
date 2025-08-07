@@ -67,8 +67,18 @@ streamlit run app.py
 
 ---
 
-## 🙋‍♀️ Author
-**Ranjani B**  
-Data Science Intern @ OneYes Technologies
+---
+
+
+
+## 📬 Contact
+
+For questions or collaboration:
+**Ranjani**
+📧 [ranjaniranjani5694@gmail.com](mailto:ranjaniranjani5694@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/ranjani8)
+
+---
+
 
 Feel free to fork, clone, or contribute to the repo!
